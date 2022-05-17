@@ -1,0 +1,3 @@
+﻿  snake.cpp
+C:\Users\ASUS\source\repos\SnakeGame_Nhom22\SnakeGame_Nhom22\snake.cpp(299,20): warning C4018: '<': signed/unsigned mismatch
+  SnakeGame_Nhom22.vcxproj -> C:\Users\ASUS\source\repos\SnakeGame_Nhom22\Debug\SnakeGame_Nhom22.exe
